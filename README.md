@@ -1,3 +1,6 @@
+> O portfólio atual está em [henrique-teruya.github.io/HenriqueTeruya/](https://henrique-teruya.github.io/HenriqueTeruya/).
+> Este repositório encaminha a raiz e `/portfolio/` ao site atual. O código anterior permanece no histórico Git; os demais projetos são preservados.
+
 # 👨🏻‍💻 Henrique Teruya
 
 **`Desenvolvedor Fullstack`**
